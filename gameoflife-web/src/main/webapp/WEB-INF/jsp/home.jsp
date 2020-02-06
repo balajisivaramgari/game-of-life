@@ -4,7 +4,7 @@
 <%@page import="java.util.Properties" %>
 <html>
 <head>
-    <title>The Game Of Life</title>
+    <title>The Game Of Life Welcome to the GOL</title>
     <!--  TODO: Don't inline this -->
     <style type="text/css">
         h2 {
